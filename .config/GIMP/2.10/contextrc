@@ -1,0 +1,15 @@
+# GIMP user context
+
+(tool "gimp-levels-tool")
+(paint-info "gimp-paintbrush")
+(foreground (color-rgb 0.55686277151107788 0.55686277151107788 0.55686277151107788))
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(mybrush "100% Opaque")
+(pattern "Pine")
+(gradient "Frente para fundo (RGB) ")
+(palette "Histórico de cor")
+(font "Sans-serif")
+(tool-preset "Core Pointer")
+
+# end of user context

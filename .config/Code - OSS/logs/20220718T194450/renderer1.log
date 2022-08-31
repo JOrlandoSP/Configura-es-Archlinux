@@ -1,0 +1,104 @@
+[2022-07-18 19:44:55.762] [renderer1] [error] Error: Webview overlay is disposed
+    at w.show (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1293:39640)
+    at w.claim (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1293:37882)
+    at Ba.claimWebview (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1723:3065)
+    at Ba.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1723:2976)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970
+[2022-07-18 20:02:29.636] [renderer1] [error] Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/img/img/perfil-instagram.jpg': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/img/img/perfil-instagram.jpg'
+	at Function._handleError (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:29443)
+	at Object.stat (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:27811)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-18 20:03:36.458] [renderer1] [error] Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/img/img/perfil-instagram.jpg': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/img/img/perfil-instagram.jpg'
+	at Function._handleError (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:29443)
+	at Object.stat (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:27811)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-18 20:04:19.662] [renderer1] [error] Error: Arquivo não encontrado
+    at g.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:96747)
+    at async g.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:95987)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970
+    at async S.doOpenCodeEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1351:53280)
+    at async b.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:47587)
+    at async open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:49048)
+[2022-07-18 20:04:30.287] [renderer1] [error] Error: Arquivo não encontrado
+    at g.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:96747)
+    at async g.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:95987)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970
+    at async S.doOpenCodeEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1351:53280)
+    at async b.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:47587)
+    at async open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:49048)
+[2022-07-18 20:05:27.297] [renderer1] [error] Error: Arquivo não encontrado
+    at g.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:96747)
+    at async g.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:95987)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970
+    at async S.doOpenCodeEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1351:53280)
+    at async b.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:47587)
+    at async open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:49048)
+[2022-07-18 20:05:54.447] [renderer1] [error] Error: Não é possível mover/copiar '/home/rsptn/workspace/flex-box/insta/img/style.css' porque o alvo '/home/rsptn/workspace/flex-box/insta/css/style.css' já existe no destino.
+    at h.doValidateMoveCopy (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:24854)
+    at async h.doCanMoveCopy (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:22295)
+    at async i.doMoveOrCopy (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2746:58806)
+    at async cc.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:19904)
+    at async l.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:25550)
+    at async g._performFileEdits (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:27772)
+    at async g.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:27276)
+    at async v.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:29733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1705:61310
+[2022-07-18 20:05:54.462] [renderer1] [error] Não é possível mover/copiar '/home/rsptn/workspace/flex-box/insta/img/style.css' porque o alvo '/home/rsptn/workspace/flex-box/insta/css/style.css' já existe no destino.: Error: Não é possível mover/copiar '/home/rsptn/workspace/flex-box/insta/img/style.css' porque o alvo '/home/rsptn/workspace/flex-box/insta/css/style.css' já existe no destino.
+    at h.doValidateMoveCopy (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:24854)
+    at async h.doCanMoveCopy (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:22295)
+    at async i.doMoveOrCopy (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2746:58806)
+    at async cc.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:19904)
+    at async l.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:25550)
+    at async g._performFileEdits (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:27772)
+    at async g.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:27276)
+    at async v.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:29733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1705:61310
+[2022-07-18 20:06:17.911] [renderer1] [error] Error: Arquivo não encontrado
+    at g.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:96747)
+    at async g.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:95987)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970
+    at async S.doOpenCodeEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1351:53280)
+    at async b.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:47587)
+    at async open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:49048)
+[2022-07-18 20:06:40.010] [renderer1] [error] Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/.img/ninsta.png': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/.img/ninsta.png'
+	at Function._handleError (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:29443)
+	at Object.stat (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:27811)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-18 20:06:46.650] [renderer1] [error] Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/.img/ninsta.png': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/.img/ninsta.png'
+	at Function._handleError (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:29443)
+	at Object.stat (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:27811)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-18 20:06:50.320] [renderer1] [error] Não é possível resolver o arquivo inexistente '/home/rsptn/workspace/flex-box/insta/.img': Error: Não é possível resolver o arquivo inexistente '/home/rsptn/workspace/flex-box/insta/.img'
+    at h.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:14956)
+    at async p.getChildren (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2117:27891)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:167:21259
+[2022-07-18 20:06:52.686] [renderer1] [error] Error: Arquivo não encontrado
+    at g.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:96747)
+    at async g.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:95987)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970
+[2022-07-18 20:07:19.959] [renderer1] [error] Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/.img/ninsta.png': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/flex-box/insta/.img/ninsta.png'
+	at Function._handleError (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:29443)
+	at Object.stat (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:27811)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-18 21:37:51.540] [renderer1] [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/lib/code/out/bootstrap.js:1:407)
+	at process.emit (node:events:390:28)

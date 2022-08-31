@@ -1,0 +1,21 @@
+[2022-07-18 11:17:47.306] [renderer1] [error] Error: Webview overlay is disposed
+    at w.show (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1293:39640)
+    at w.claim (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1293:37882)
+    at Ba.claimWebview (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1723:3065)
+    at Ba.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1723:2976)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970
+[2022-07-18 11:19:34.263] [renderer1] [error] Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/instagram-dio/carr1.png': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rsptn/workspace/instagram-dio/carr1.png'
+	at Function._handleError (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:29443)
+	at Object.stat (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:87:27811)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-18 11:19:40.283] [renderer1] [error] Error: Arquivo não encontrado
+    at g.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:96747)
+    at async g.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:95987)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970

@@ -1,0 +1,22 @@
+[2022-07-18 12:16:21.839] [renderer1] [error] Error: Webview overlay is disposed
+    at w.show (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1293:39640)
+    at w.claim (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1293:37882)
+    at Ba.claimWebview (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1723:3065)
+    at Ba.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1723:2976)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970
+[2022-07-18 12:16:31.085] [renderer1] [error] Não é possível ler o arquivo '/home/rsptn/workspace/instagram-dio/index.html' (Error: Arquivo não modificado desde): Error: Não é possível ler o arquivo '/home/rsptn/workspace/instagram-dio/index.html' (Error: Arquivo não modificado desde)
+    at h.doReadFileStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:20036)
+    at async p.doRead (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:42357)
+    at async p.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:42032)
+    at async Ir.resolveFromFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2741:66789)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:36489
+[2022-07-18 12:16:35.033] [renderer1] [error] Não é possível ler o arquivo '/home/rsptn/workspace/instagram-dio/style.css' (Error: Arquivo não modificado desde): Error: Não é possível ler o arquivo '/home/rsptn/workspace/instagram-dio/style.css' (Error: Arquivo não modificado desde)
+    at h.doReadFileStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:20036)
+    at async p.doRead (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:42357)
+    at async p.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:42032)
+    at async Ir.resolveFromFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2741:66789)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:36489

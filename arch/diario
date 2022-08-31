@@ -1,0 +1,98 @@
+Instalação inicial executada utilizando os padrões fornecidos pelo script archinstall
+
+Rede gerenciada pelo networkmanager
+
+Som pelo pipewire
+
+Criação do arquivo /etc/X11/xorg.conf/50-libinput.conf
+Objetivo: habilitar o "tapclick"
+
+conteudo:
+
+Section "InputClass"
+        Identifier "libinput touchpad catchall"
+        MatchIsTouchpad "on"
+        MatchDevicePath "/dev/input/event*"
+        Driver "libinput"
+        Option "Tapping" "on"
+        Option "DisableWhileTyping" "on"
+        Option "NaturalScrolling" "True"
+EndSection
+
+.............
+
+Fontes utilizadas
+
+ttf-nerd-fonts
+mononoki
+
+.............
+
+Pacotes instalados:
+
+sudo pacman -S picom-tryone-git rofi firefox lxappearance pavucontrol nitrogen scrot mpv ffmpeg geany 
+
+Instalação de suporte a NTFS
+
+sudo pacman -S ntfs-3g
+
+Suporte a controle do backlight pelo teclado
+
+sudo pacman -S brightnessctl
+
+Suporte ao comando locate
+
+sudo pacman -S locate
+
+Tema para melhorar a aparencia geral do sistema
+
+sudo pacman -S arc-gtk-theme
+
+Aplicativo de conversão de imagens, usado no blur-lockscreen
+
+sudo pacman -S imagemagick
+
+##################################################
+Instalar o YAY 
+
+sudo pacman -S git go
+
+git clone https://aur.archlinux.org/yay.git
+
+cd yay
+
+makepkg -si
+##################################################
+Instalar icones melhorados utilizando YAY
+
+yay -S qogir-icon-theme
+
+
+Instalado o pacote sysstat para dar suporte ao script de monitoramento uso da CPU
+
+sudo pacman -S sysstat
+
+Instalado o pacote acpi para dar suporte ao script de monitoramento da bateria.
+
+sudo pacman -S acpi
+
+Instalado pacote python-gobjects para dar suporte ao script de alteração e mmonitoramento do perfil de energia
+
+sudo pacman -s python-gobjects
+
+Instalado pacote power-profile-daemon para dar suporte ao script de alteração e mmonitoramento do perfil de energia
+
+sudo pacman -S power-profiles-daemon
+
+Instalado Python para estudos futuros * Necessario para monitorar a bateria
+
+sudo pacman -S python
+
+Instalado o xclip para dar suporte ao script de printscreen para clipboard
+
+sudo pacman -S xclip
+
+Customização da tela de login Lightdm
+
+instalado lightdm-sleek-greeter
+configuração feita no arquivo /etc/lightdm/lightdm.conf na linha greeter-session

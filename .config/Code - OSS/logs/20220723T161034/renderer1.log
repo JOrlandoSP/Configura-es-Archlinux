@@ -1,0 +1,6 @@
+[2022-07-23 16:13:44.141] [renderer1] [error] Não é possível ler o arquivo '/home/rsptn/workspace/flex-box/insta/css/style.css' (Error: Arquivo não modificado desde): Error: Não é possível ler o arquivo '/home/rsptn/workspace/flex-box/insta/css/style.css' (Error: Arquivo não modificado desde)
+    at h.doReadFileStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:20036)
+    at async p.doRead (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:42357)
+    at async p.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:42032)
+    at async Ir.resolveFromFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2741:66789)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2752:36489

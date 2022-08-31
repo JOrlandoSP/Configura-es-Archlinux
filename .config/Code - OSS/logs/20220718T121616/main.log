@@ -1,0 +1,3 @@
+[2022-07-18 12:16:16.320] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-18 12:16:19.728] [main] [info] Starting extension host with pid 133620 (fork() took 20 ms).
+[2022-07-18 12:49:59.931] [main] [error] CodeWindow: failed to load (reason: <unknown>, code: -3)

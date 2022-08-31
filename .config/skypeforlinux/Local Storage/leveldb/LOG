@@ -1,0 +1,6 @@
+2022/07/20-16:31:12.962 e31 Reusing MANIFEST /home/rsptn/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2022/07/20-16:31:12.962 e31 Recovering log #4
+2022/07/20-16:31:12.963 e31 Reusing old log /home/rsptn/.config/skypeforlinux/Local Storage/leveldb/000004.log 
+2022/07/20-16:32:26.298 1385 Level-0 table #8: started
+2022/07/20-16:32:26.302 1385 Level-0 table #8: 106965 bytes OK
+2022/07/20-16:32:26.306 1385 Delete type=0 #4

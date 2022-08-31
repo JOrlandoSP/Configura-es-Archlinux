@@ -1,0 +1,4 @@
+[2022-07-21 09:52:55.588] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-21 09:52:58.781] [main] [info] Starting extension host with pid 18896 (fork() took 16 ms).
+[2022-07-21 09:52:58.847] [main] [info] Waiting for extension host with pid 18896 to exit.
+[2022-07-21 09:52:59.529] [main] [info] Extension host with pid 18896 exited with code: 0, signal: null.

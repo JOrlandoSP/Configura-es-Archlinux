@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brincando</title>
+</head>
+<body> 
+
+    <h1>Flexcontainer</h1>
+
+<container class="flexcontainer">
+    
+        <div class="coluna" id="cola">
+            <h2>Coluna 1</h2>
+                
+                <div class="items flexcontainer">
+                    <div class="item">A</div>
+                    <div class="item">B</div>
+                    <div class="item">C</div>
+                    <div class="item">D</div>
+                    <div class="item">E</div>
+                    <div class="item">F</div>
+                    <div class="item">G</div>
+                    <div class="item">H</div>
+                    <div class="item">I</div>    
+                </div>
+                
+        </div>
+ 
+    
+        <div class="coluna" id="colb">
+            <h2>Coluna 2</h2>
+                <div class="innerline flexcontainer" id="lia">
+                    <div class="item">A</div>
+                    <div class="item">B</div>
+                    <div class="item">C</div>
+                    <div class="item">D</div>
+                </div>
+
+                <div class="innerline flexcontainer" id="lib">
+                    <div class="item">E</div>
+                    <div class="item">F</div>
+                    <div class="item">G</div>
+                    <div class="item">H</div>
+                    <div class="item">I</div>
+        
+            </div>
+
+    </div>
+
+</container>
+
+</body>
+</html>
+
+<style>
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', 'Sans-serif';
+}
+
+h1{
+    color: red;
+    background-color: black;
+}
+
+h2{
+    color: black;
+    background-color: grey;
+    margin-left: 20px;
+}
+
+.item{
+    color: greenyellow;
+    background-color: lightslategray;
+    margin: 5px;
+    font-size: 150px;
+    font-weight: 900;
+    flex: auto;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.flexcontainer{
+    display: inline-flex;
+}
+
+.coluna{
+    height: 100vh;
+    width: 50vh;
+}
+
+.items{
+    margin-left: 20px;
+    margin-top: 10px;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+}
+
+.innerline{
+    background-color: blueviolet;
+    height: 500px;
+    flex: auto;
+    margin-top: 10px;
+    margin-left: 20px;
+    flex-wrap: wrap;
+    height: auto;
+}
+
+
+</style>
+

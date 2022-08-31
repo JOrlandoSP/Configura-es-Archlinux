@@ -1,0 +1,19 @@
+[2022-08-30 13:35:09.288] [sharedprocess] [info] Starting worker process with pid 155734 (type: fileWatcher, window: 1).
+[2022-08-30 13:35:18.385] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-pt-br
+[2022-08-30 13:35:18.389] [sharedprocess] [info] Getting Manifest... ms-vscode.live-server
+[2022-08-30 13:35:20.568] [sharedprocess] [info] Installing extension: ms-vscode.live-server
+[2022-08-30 13:35:20.570] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-pt-br
+[2022-08-30 13:35:25.052] [sharedprocess] [info] Downloaded extension: ms-vscode.live-server /home/rsptn/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.live-server-0.2.13
+[2022-08-30 13:35:25.134] [sharedprocess] [info] Extracted extension to /home/rsptn/.vscode-oss/extensions/.abf2dd4a-14e3-41d8-a4eb-c9f8f6f3573f: ms-vscode.live-server
+[2022-08-30 13:35:25.141] [sharedprocess] [info] Renamed to /home/rsptn/.vscode-oss/extensions/ms-vscode.live-server-0.2.13
+[2022-08-30 13:35:25.145] [sharedprocess] [info] Extracting completed. ms-vscode.live-server
+[2022-08-30 13:35:25.151] [sharedprocess] [info] Extension installed successfully: ms-vscode.live-server
+[2022-08-30 13:35:26.069] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-pt-br /home/rsptn/.config/Code - OSS/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-pt-br-1.70.0
+[2022-08-30 13:35:26.314] [sharedprocess] [info] Extracted extension to /home/rsptn/.vscode-oss/extensions/.f3f75011-6c2d-4d9f-a1e7-4865375528bb: ms-ceintl.vscode-language-pack-pt-br
+[2022-08-30 13:35:26.324] [sharedprocess] [info] Renamed to /home/rsptn/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-pt-br-1.70.0
+[2022-08-30 13:35:26.327] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-pt-br
+[2022-08-30 13:35:26.331] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pt-br
+[2022-08-30 13:35:26.524] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pt-br
+[2022-08-30 13:35:46.202] [sharedprocess] [info] Worker process with pid 155734 terminated normally (type: fileWatcher, window: 1).
+[2022-08-30 13:35:47.465] [sharedprocess] [error] [uncaught exception in sharedProcess]: Ocorreu um erro no sistema (ENOENT: no such file or directory, scandir '/home/rsptn/.config/Code - OSS/clp/39ef429c665c8033aab07944f42c1821.pt-br'): Error: ENOENT: no such file or directory, scandir '/home/rsptn/.config/Code - OSS/clp/39ef429c665c8033aab07944f42c1821.pt-br'
+[2022-08-30 13:35:49.170] [sharedprocess] [info] Starting worker process with pid 156468 (type: fileWatcher, window: 1).

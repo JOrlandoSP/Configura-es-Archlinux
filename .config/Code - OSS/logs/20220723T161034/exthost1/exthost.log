@@ -1,0 +1,15 @@
+[2022-07-23 16:10:40.475] [exthost] [info] Extension host with pid 103118 started
+[2022-07-23 16:10:40.475] [exthost] [info] Skipping acquiring lock for /home/rsptn/.config/Code - OSS/User/workspaceStorage/86a606163bec76805919ffa3451b3388.
+[2022-07-23 16:10:40.833] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-23 16:10:41.131] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-23 16:10:41.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-23 16:10:41.348] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-23 16:10:41.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-23 16:10:41.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-23 16:10:41.960] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-23 16:10:42.206] [exthost] [info] Eager extensions activated
+[2022-07-23 16:10:42.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-23 16:10:42.483] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-23 16:11:54.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-07-24 01:37:19.117] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-24 01:37:19.189] [exthost] [info] Extension host with pid 103118 exiting with code 0

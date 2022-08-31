@@ -1,0 +1,10 @@
+[2022-07-20 16:33:20.673] [renderer1] [error] Error: Webview overlay is disposed
+    at w.show (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1293:39640)
+    at w.claim (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1293:37882)
+    at Ba.claimWebview (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1723:3065)
+    at Ba.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1723:2976)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970

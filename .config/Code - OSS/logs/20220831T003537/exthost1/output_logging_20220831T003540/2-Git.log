@@ -1,0 +1,113 @@
+[2022-08-31T03:35:41.559Z] Nível de log: Info
+[2022-08-31T03:35:41.561Z] [info] Validando git localizado em: git
+[2022-08-31T03:35:41.592Z] [info] Usando git 2.37.2 de git
+[2022-08-31T03:35:41.623Z] > git rev-parse --show-toplevel [7ms]
+[2022-08-31T03:35:41.624Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-08-31T03:35:41.636Z] > git rev-parse --show-toplevel [3ms]
+[2022-08-31T03:35:41.684Z] > git rev-parse --git-dir --git-common-dir [39ms]
+[2022-08-31T03:35:41.695Z] [info] Open repository: /home/rsptn/workspace/DiaZero
+[2022-08-31T03:35:41.748Z] > git status -z -uall [39ms]
+[2022-08-31T03:35:41.771Z] > git rev-parse --show-toplevel [53ms]
+[2022-08-31T03:35:41.782Z] > git symbolic-ref --short HEAD [19ms]
+[2022-08-31T03:35:41.800Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-08-31T03:35:41.815Z] > git rev-parse --git-dir --git-common-dir [37ms]
+[2022-08-31T03:35:41.819Z] [info] Open repository: /home/rsptn/workspace/a
+[2022-08-31T03:35:41.845Z] > git status -z -uall [17ms]
+[2022-08-31T03:35:41.854Z] > git remote --verbose [41ms]
+[2022-08-31T03:35:41.855Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [48ms]
+[2022-08-31T03:35:41.871Z] > git symbolic-ref --short HEAD [17ms]
+[2022-08-31T03:35:41.888Z] > git rev-parse --show-toplevel [49ms]
+[2022-08-31T03:35:41.903Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+[2022-08-31T03:35:41.919Z] > git config --get commit.template [51ms]
+[2022-08-31T03:35:41.932Z] > git status -z -uall [4ms]
+[2022-08-31T03:35:41.938Z] > git remote --verbose [20ms]
+[2022-08-31T03:35:41.939Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+[2022-08-31T03:35:41.945Z] > git rev-parse --git-dir --git-common-dir [45ms]
+[2022-08-31T03:35:41.949Z] [info] Open repository: /home/rsptn/workspace/aulapratica-php
+[2022-08-31T03:35:41.982Z] > git status -z -uall [24ms]
+[2022-08-31T03:35:41.993Z] > git symbolic-ref --short HEAD [55ms]
+[2022-08-31T03:35:42.022Z] > git symbolic-ref --short HEAD [30ms]
+[2022-08-31T03:35:42.029Z] > git config --get commit.template [58ms]
+[2022-08-31T03:35:42.037Z] > git rev-parse --show-toplevel [73ms]
+[2022-08-31T03:35:42.057Z] > git status -z -uall [20ms]
+[2022-08-31T03:35:42.072Z] > git rev-parse --git-dir --git-common-dir [29ms]
+[2022-08-31T03:35:42.078Z] [info] Open repository: /home/rsptn/workspace/dio-desafio-github
+[2022-08-31T03:35:42.101Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [72ms]
+[2022-08-31T03:35:42.120Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [112ms]
+[2022-08-31T03:35:42.146Z] > git status -z -uall [57ms]
+[2022-08-31T03:35:42.158Z] > git remote --verbose [21ms]
+[2022-08-31T03:35:42.160Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+[2022-08-31T03:35:42.165Z] > git remote --verbose [46ms]
+[2022-08-31T03:35:42.166Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [55ms]
+[2022-08-31T03:35:42.170Z] > git rev-parse --show-toplevel [71ms]
+[2022-08-31T03:35:42.183Z] > git symbolic-ref --short HEAD [113ms]
+[2022-08-31T03:35:42.218Z] > git rev-parse --git-dir --git-common-dir [35ms]
+[2022-08-31T03:35:42.224Z] [info] Open repository: /home/rsptn/workspace/flex-box
+[2022-08-31T03:35:42.241Z] > git symbolic-ref --short HEAD [84ms]
+[2022-08-31T03:35:42.260Z] > git status -z -uall [27ms]
+[2022-08-31T03:35:42.268Z] > git rev-parse --show-toplevel [27ms]
+[2022-08-31T03:35:42.275Z] > git config --get commit.template [59ms]
+[2022-08-31T03:35:42.276Z] > git config --get commit.template [69ms]
+[2022-08-31T03:35:42.277Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [83ms]
+[2022-08-31T03:35:42.311Z] > git remote --verbose [14ms]
+[2022-08-31T03:35:42.312Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-08-31T03:35:42.314Z] > git rev-parse --git-dir --git-common-dir [39ms]
+[2022-08-31T03:35:42.318Z] [info] Open repository: /home/rsptn/workspace/i3
+[2022-08-31T03:35:42.335Z] > git symbolic-ref --short HEAD [68ms]
+[2022-08-31T03:35:42.343Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [94ms]
+[2022-08-31T03:35:42.369Z] > git status -z -uall [44ms]
+[2022-08-31T03:35:42.377Z] > git remote --verbose [18ms]
+[2022-08-31T03:35:42.377Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [25ms]
+[2022-08-31T03:35:42.381Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [38ms]
+[2022-08-31T03:35:42.400Z] > git rev-parse --show-toplevel [66ms]
+[2022-08-31T03:35:42.441Z] > git remote --verbose [42ms]
+[2022-08-31T03:35:42.442Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [51ms]
+[2022-08-31T03:35:42.457Z] > git symbolic-ref --short HEAD [81ms]
+[2022-08-31T03:35:42.478Z] > git config --get commit.template [110ms]
+[2022-08-31T03:35:42.556Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [79ms]
+[2022-08-31T03:35:42.613Z] > git config --get commit.template [187ms]
+[2022-08-31T03:35:42.616Z] > git rev-parse --git-dir --git-common-dir [210ms]
+[2022-08-31T03:35:42.628Z] [info] Open repository: /home/rsptn/workspace/instagram-dio
+[2022-08-31T03:35:42.796Z] > git status -z -uall [141ms]
+[2022-08-31T03:35:42.803Z] > git rev-parse --show-toplevel [131ms]
+[2022-08-31T03:35:42.803Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-08-31T03:35:42.810Z] > git remote --verbose [201ms]
+[2022-08-31T03:35:42.811Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [225ms]
+[2022-08-31T03:35:42.814Z] > git config --get commit.template [263ms]
+[2022-08-31T03:35:42.837Z] > git rev-parse --show-toplevel [27ms]
+[2022-08-31T03:35:42.844Z] > git symbolic-ref --short HEAD [41ms]
+[2022-08-31T03:35:42.854Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-08-31T03:35:42.867Z] > git rev-parse --git-dir --git-common-dir [24ms]
+[2022-08-31T03:35:42.870Z] [info] Open repository: /home/rsptn/workspace/livro-receitas
+[2022-08-31T03:35:42.885Z] > git config --get commit.template [52ms]
+[2022-08-31T03:35:42.887Z] > git status -z -uall [10ms]
+[2022-08-31T03:35:42.894Z] > git rev-parse --show-toplevel [10ms]
+[2022-08-31T03:35:42.894Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-08-31T03:35:42.895Z] > git remote --verbose [29ms]
+[2022-08-31T03:35:42.896Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [36ms]
+[2022-08-31T03:35:42.906Z] > git symbolic-ref --short HEAD [12ms]
+[2022-08-31T03:35:42.935Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+[2022-08-31T03:35:42.962Z] > git config --get commit.template [57ms]
+[2022-08-31T03:35:42.965Z] > git remote --verbose [4ms]
+[2022-08-31T03:35:42.965Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+[2022-08-31T03:35:42.978Z] > git config --get commit.template [4ms]
+[2022-08-31T03:35:43.527Z] > git check-ignore -v -z --stdin [56ms]
+[2022-08-31T03:35:43.528Z] > git check-ignore -v -z --stdin [51ms]
+[2022-08-31T03:35:43.528Z] > git check-ignore -v -z --stdin [44ms]
+[2022-08-31T03:35:43.529Z] > git check-ignore -v -z --stdin [39ms]
+[2022-08-31T03:35:43.529Z] > git check-ignore -v -z --stdin [32ms]
+[2022-08-31T03:35:43.529Z] > git check-ignore -v -z --stdin [25ms]
+[2022-08-31T03:35:43.530Z] > git check-ignore -v -z --stdin [13ms]
+[2022-08-31T03:35:43.530Z] > git check-ignore -v -z --stdin [6ms]
+[2022-08-31T03:35:44.507Z] > git rev-parse --show-toplevel [1ms]
+[2022-08-31T03:35:44.507Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-08-31T03:40:27.849Z] > git rev-parse --show-toplevel [2ms]
+[2022-08-31T03:40:27.849Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-08-31T03:40:35.462Z] > git rev-parse --show-toplevel [11ms]
+[2022-08-31T03:40:35.462Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

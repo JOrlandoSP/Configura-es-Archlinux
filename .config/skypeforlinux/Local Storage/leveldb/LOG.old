@@ -1,0 +1,5 @@
+2022/07/02-19:22:32.110 ba2e Creating DB /home/rsptn/.config/skypeforlinux/Local Storage/leveldb since it was missing.
+2022/07/02-19:22:32.119 ba2e Reusing MANIFEST /home/rsptn/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2022/07/02-19:23:32.563 ba30 Level-0 table #5: started
+2022/07/02-19:23:32.566 ba30 Level-0 table #5: 92879 bytes OK
+2022/07/02-19:23:32.569 ba30 Delete type=0 #3

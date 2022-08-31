@@ -1,0 +1,12 @@
+[2022-08-31 00:35:42.955] [sharedprocess] [info] Starting worker process with pid 37026 (type: fileWatcher, window: 1).
+[2022-08-31 00:35:43.809] [sharedprocess] [info] Deleted from disk ms-vscode.live-server /home/rsptn/.vscode-oss/extensions/ms-vscode.live-server-0.2.12
+[2022-08-31 00:35:43.818] [sharedprocess] [info] Deleted from disk ms-ceintl.vscode-language-pack-pt-br /home/rsptn/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-pt-br-1.69.0
+[2022-08-31 00:35:46.850] [sharedprocess] [info] Getting Manifest... ms-vscode.live-server
+[2022-08-31 00:35:49.010] [sharedprocess] [info] Installing extension: ms-vscode.live-server
+[2022-08-31 00:35:51.482] [sharedprocess] [info] Downloaded extension: ms-vscode.live-server /home/rsptn/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.live-server-0.4.0
+[2022-08-31 00:35:51.581] [sharedprocess] [info] Extracted extension to /home/rsptn/.vscode-oss/extensions/.665ce4a6-33c4-4726-bd92-984a9170b6a5: ms-vscode.live-server
+[2022-08-31 00:35:51.587] [sharedprocess] [info] Renamed to /home/rsptn/.vscode-oss/extensions/ms-vscode.live-server-0.4.0
+[2022-08-31 00:35:51.591] [sharedprocess] [info] Extracting completed. ms-vscode.live-server
+[2022-08-31 00:35:51.597] [sharedprocess] [info] Extension installed successfully: ms-vscode.live-server
+[2022-08-31 00:38:25.877] [sharedprocess] [info] Starting worker process with pid 39973 (type: fileWatcher, window: 3).
+[2022-08-31 00:38:25.958] [sharedprocess] [info] Worker process with pid 39973 terminated normally (type: fileWatcher, window: 3).

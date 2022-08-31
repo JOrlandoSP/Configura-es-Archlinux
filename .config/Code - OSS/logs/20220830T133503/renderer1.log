@@ -1,0 +1,6 @@
+[2022-08-30 13:35:40.529] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+[2022-08-30 13:35:51.534] [renderer1] [error] [Extension Host] Error: ENOENT: no such file or directory, open '/home/rsptn/.config/Code - OSS/clp/78c0a865fb1ddd8f797605c2658e1f04.pt-br/corrupted.info'
+[2022-08-30 13:35:54.300] [renderer1] [error] [Extension Host] Error: ENOENT: no such file or directory, open '/home/rsptn/.config/Code - OSS/clp/78c0a865fb1ddd8f797605c2658e1f04.pt-br/corrupted.info'
+[2022-08-30 13:37:10.327] [renderer1] [error] [Extension Host] Failed to load message bundle for file /home/rsptn/.vscode-oss/extensions/ms-vscode.live-server-0.2.13/out/src/utils/constants
+[2022-08-30 13:37:10.328] [renderer1] [error] [Extension Host] Failed to load message bundle for file /home/rsptn/.vscode-oss/extensions/ms-vscode.live-server-0.2.13/out/src/manager
+[2022-08-30 13:37:10.329] [renderer1] [error] [Extension Host] Failed to load message bundle for file /home/rsptn/.vscode-oss/extensions/ms-vscode.live-server-0.2.13/out/src/extension

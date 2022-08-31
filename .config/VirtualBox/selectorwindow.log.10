@@ -1,0 +1,18 @@
+00:00:00.448186 VirtualBox GUI VM Selector Window 6.1.36 r152435 linux.amd64 (Jul 21 2022 10:08:57) release log
+00:00:00.448189 Log opened 2022-07-26T13:59:59.808089000Z
+00:00:00.448190 Build Type: release
+00:00:00.448192 OS Product: Linux
+00:00:00.448193 OS Release: 5.18.14-arch1-1
+00:00:00.448194 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 23 Jul 2022 11:46:17 +0000
+00:00:00.448219 DMI Product Name: Aspire A515-54
+00:00:00.448229 DMI Product Version: V1.24
+00:00:00.448234 Firmware type: UEFI
+00:00:00.449671 Secure Boot: Disabled
+00:00:00.449749 Host RAM: 3744MB (3.6GB) total, 1603MB available
+00:00:00.449755 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.449756 Process ID: 32669
+00:00:00.449757 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.449817 Qt version: 5.15.5
+00:00:00.468984 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.469023 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.319152 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 963x36 x 948x1035
